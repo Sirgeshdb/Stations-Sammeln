@@ -101,3 +101,25 @@ localStorage.setItem("punktSumme", punktSumme);
 
 strecke = Number(localStorage.getItem("strecke")) || 0;
 punktSumme = Number(localStorage.getItem("punktSumme")) || 0;
+
+document.getElementById("reset").onclick = function(){
+
+    if (standortMarker !== null) {
+        map.removeLayer(standortMarker);
+        standortMarker = null;
+    }
+
+    letzterPunkt = null;
+
+    strecke = 0;
+    punktSumme = 0;
+    gesamtPunkte = 0;
+
+    localStorage.clear();
+
+    document.getElementById("distanz").textContent = "0 km";
+    document.getElementById("punkte").textContent = "0";
+
+    map.setView([52.37, 9.73], 13);
+
+};
