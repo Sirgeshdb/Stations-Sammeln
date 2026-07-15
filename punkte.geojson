@@ -1,0 +1,6256 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.414746,
+          51.6189443
+        ]
+      },
+      "properties": {
+        "original_address": "Bad Lauterberg im Harz Barbis",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": 7
+      },
+      "id": "ZrQFy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0064728,
+          52.0595144
+        ]
+      },
+      "properties": {
+        "original_address": "Bad Salzdetfurth",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": 7
+      },
+      "id": "FCh1Y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0183672,
+          52.070004
+        ]
+      },
+      "properties": {
+        "original_address": "Bad Salzdetfurth-Solebad",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": 7
+      },
+      "id": "lNgi0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.628028,
+          53.187652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bavendorf",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": 7
+      },
+      "id": "i6Jdo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.003781,
+          52.032903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bodenburg",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": 7
+      },
+      "id": "8NVnK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.44707,
+          52.967252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Brettorf",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": 7
+      },
+      "id": "JbGgt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.711544,
+          53.606358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Burhafe",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": 7
+      },
+      "id": "SbeMO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.858685,
+          53.269653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Büsenbachtal",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "7s2y7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.572053,
+          52.105108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Coppenbrügge",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "NfF3K"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1175915,
+          53.1049816
+        ]
+      },
+      "properties": {
+        "original_address": "Dannenberg Ost",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "kYaE3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.660365,
+          52.156894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dettum",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "YwL3c"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.202909,
+          51.787358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Gittelde",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "txFlu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.851059,
+          53.167846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Göhrde",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "9d9en"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.394492,
+          52.8002998
+        ]
+      },
+      "properties": {
+        "original_address": "Goldenstedt (Oldb)",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "0iSSz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.332781,
+          51.654408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Herzberg Schloß",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "QGbsz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.967577,
+          52.439166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hesepe",
+        "color": "7",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "7"
+      },
+      "id": "ICNZA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0440938,
+          53.1512116
+        ]
+      },
+      "properties": {
+        "original_address": "Hitzacker",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "shIWC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1384787,
+          52.5748964
+        ]
+      },
+      "properties": {
+        "original_address": "Holdorf (Oldb)",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "tgM0B"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.893677,
+          53.568709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Jever",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "fAH94"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.911119,
+          53.1707894
+        ]
+      },
+      "properties": {
+        "original_address": "Leitstade",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "mjtw1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.871613,
+          51.588463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lenglern",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "drydl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.791179,
+          51.588964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lödingsen",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "fWbG5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3429736,
+          52.7610674
+        ]
+      },
+      "properties": {
+        "original_address": "Lutten",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "j9MXc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.535717,
+          52.381285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Meine",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "S1Me1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.208203,
+          52.619178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Mühlen (Oldb)",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "GxRoB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.760851,
+          53.163678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Neetzendorf",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "W9B2Z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.986658,
+          51.703098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Offensen (Kr Northeim)",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "3Kl9f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.273118,
+          51.716873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Osterode am Harz Leege",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "1fqtm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2454644,
+          51.7260598
+        ]
+      },
+      "properties": {
+        "original_address": "Osterode am Harz Mitte",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "ua3In"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.391151,
+          52.838526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Rechterfeld",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "fPiHu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.010471,
+          52.48472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Rieste",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "WG8F8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.523272,
+          52.41331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Rötgesbüttel",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "SIFBO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.408645,
+          52.150555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Salzgitter-Watenstedt",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "8HJX6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.635023,
+          52.628141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schönewörde",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "H1zVB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.861002,
+          53.001716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Soltau (Han) Nord",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "m86qD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7592931,
+          52.8737562
+        ]
+      },
+      "properties": {
+        "original_address": "Soltendieck",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "edtnS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.592365,
+          52.90766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Stederdorf (Kr Uelzen)",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "2vh4j"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.85568,
+          53.315749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Suerhop",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "m12nB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.579705,
+          52.512146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Triangel",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "F4tne"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.555201,
+          53.199041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Vastorf",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "ujofi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2873162,
+          52.7310691
+        ]
+      },
+      "properties": {
+        "original_address": "Vechta Stoppelmarkt",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "oP5bP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.737921,
+          51.661057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Volpriehausen",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "0fIyW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.656266,
+          52.648166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Vorhop",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "Rq3ja"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.342987,
+          53.163472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Weener",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "vZsz1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4711678,
+          53.2173802
+        ]
+      },
+      "properties": {
+        "original_address": "Wendisch Evern",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "EcY2J"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0324349,
+          52.0835368
+        ]
+      },
+      "properties": {
+        "original_address": "Wesseln",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "eTDPk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.789049,
+          53.579742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wittmund",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "zOHzh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.845424,
+          53.026788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wolterdingen (Han)",
+        "color": "7",
+        "wert": "7"
+      },
+      "id": "gA5vf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.942171,
+          52.390711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Achmer",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "m8CXU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.759808,
+          51.577577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Adelebsen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "aKDzj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.453835,
+          53.282253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Adendorf",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "KceNf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.53333,
+          53.5667
+        ]
+      },
+      "properties": {
+        "original_address": "Agathenburg",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "PLaYw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.209362,
+          52.89948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Ahlhorn",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "80uIK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9679044,
+          52.2514068
+        ]
+      },
+      "properties": {
+        "original_address": "Algermissen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "H03Xl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.979298,
+          52.403518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Aligse",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "MKQw2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.386847,
+          53.089796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Aschendorf",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "DbqsE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1367082,
+          53.3633284
+        ]
+      },
+      "properties": {
+        "original_address": "Ashausen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "TBup9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.672359,
+          52.835232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Bodenteich",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "lQrQG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0297839,
+          51.8704732
+        ]
+      },
+      "properties": {
+        "original_address": "Bad Gandersheim",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "ySdqz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.573525,
+          51.58227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Sachsa",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "CCHdB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.228443,
+          52.089527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Baddeckenstedt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "F0AiO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7526005,
+          52.0679913
+        ]
+      },
+      "properties": {
+        "original_address": "Banteln",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Kxpqt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.371265,
+          53.290258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bardowick",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "NWfSy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8183598,
+          52.2015976
+        ]
+      },
+      "properties": {
+        "original_address": "Barnten",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "3n7ZP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.818502,
+          52.947035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Barrien",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "99QGm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.475266,
+          53.183613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Berne",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "CKix5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.942772,
+          52.550785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bersenbrück",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "HsE0Z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5591773,
+          51.6386902
+        ]
+      },
+      "properties": {
+        "original_address": "Bodenfelde",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "qE8kx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.533287,
+          53.099178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bookholzberg",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "neYyV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.568762,
+          52.060829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Börßum",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "fH83w"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7860804,
+          52.8716525
+        ]
+      },
+      "properties": {
+        "original_address": "Bramstedt (b Syke)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "CACh2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5513063,
+          52.276086
+        ]
+      },
+      "properties": {
+        "original_address": "Braunschweig-Gliesmarode",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "rN7pw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.26123,
+          53.002082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Brockhöfe",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "DIzgn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.449473,
+          52.204293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bruchmühlen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "k9UZr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.265267,
+          53.182225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bunde",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "eIf9t"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.058056,
+          53.766243
+        ]
+      },
+      "properties": {
+        "original_address": "Cadenberge",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "zoBE6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.624895,
+          52.427494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Calberlah",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "v4tZK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.055725,
+          52.843943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Cloppenburg",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "i0SUH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.708065,
+          53.169209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dahlenburg",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "f80oY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.23885,
+          52.432166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dedenhausen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "TyK9M"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13356,
+          52.09541
+        ]
+      },
+      "properties": {
+        "original_address": "Derneburg (Han)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "K3Wxh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.184986,
+          52.111985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dissen-Bad Rothenfelde",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "bQgUe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5384929,
+          53.5377917
+        ]
+      },
+      "properties": {
+        "original_address": "Dollern",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "ttKiA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.769592,
+          52.89772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dorfmark",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "yA1Gf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.353201,
+          52.958878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dörpen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Y9fPw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693474,
+          53.859527
+        ]
+      },
+      "properties": {
+        "original_address": "Dorum (Kr Cuxhaven)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "M3blg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.244652,
+          52.846949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dörverden",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "aK4Z9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.870859,
+          53.018501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dreye",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "tB9jO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.416155,
+          53.016978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Ebstorf (Kr Uelzen)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "jGUL4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5342005,
+          53.3372154
+        ]
+      },
+      "properties": {
+        "original_address": "Echem",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "tE6DH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.428802,
+          52.54473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Eilvese",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "JObbp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.463893,
+          53.233578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Elsfleth",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "sAfjV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8702981,
+          52.1662045
+        ]
+      },
+      "properties": {
+        "original_address": "Emmerke",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "x0qxb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.234838,
+          52.7340315
+        ]
+      },
+      "properties": {
+        "original_address": "Eschede",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "kve3f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6159838,
+          53.6362684
+        ]
+      },
+      "properties": {
+        "original_address": "Esens (Ostfriesl)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "j1I6y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8967232,
+          51.9282454
+        ]
+      },
+      "properties": {
+        "original_address": "Freden (Leine)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "4MiBA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.909939,
+          52.21339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Frellstedt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "AR32b"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9147429,
+          51.421603
+        ]
+      },
+      "properties": {
+        "original_address": "Friedland (Han)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "vtWNJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5451469,
+          53.0344984
+        ]
+      },
+      "properties": {
+        "original_address": "Ganderkesee",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Zlnp9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.312496,
+          52.597991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Geeste",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "MIwVh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.542554,
+          52.4796381
+        ]
+      },
+      "properties": {
+        "original_address": "Gifhorn-Stadt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "oOPfj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0179749,
+          52.0967897
+        ]
+      },
+      "properties": {
+        "original_address": "Groß Düngen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "mKie1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.240433,
+          52.944138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Großenkneten",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "ohg7D"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.40336,
+          52.5773686
+        ]
+      },
+      "properties": {
+        "original_address": "Hagen (Han)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "kSner"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3749959,
+          53.6282213
+        ]
+      },
+      "properties": {
+        "original_address": "Hammah",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "PsQhT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.844694,
+          53.241798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Handeloh",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "K6NTi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.658355,
+          51.412698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hann Münden",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "QjrDO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.826241,
+          51.658766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hardegsen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "msDF6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.301788,
+          52.783871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Haren (Ems)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "NRnIR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9590253,
+          52.207903
+        ]
+      },
+      "properties": {
+        "original_address": "Harsum",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Uvcix"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9625883,
+          52.2414052
+        ]
+      },
+      "properties": {
+        "original_address": "Hasbergen (Kr Osnabrück)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "CKs61"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.236554,
+          51.646027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hattorf",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "sk26y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2352937,
+          53.6423175
+        ]
+      },
+      "properties": {
+        "original_address": "Hechthausen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Xa7b3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2744461,
+          53.0119696
+        ]
+      },
+      "properties": {
+        "original_address": "Heidkrug",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "mWEie"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1595122,
+          53.6886857
+        ]
+      },
+      "properties": {
+        "original_address": "Hemmoor",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "UUq11"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.244308,
+          52.166142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hessisch Oldendorf",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "6Yeda"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9628637,
+          52.146056
+        ]
+      },
+      "properties": {
+        "original_address": "Hildesheim Ost",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "GE5H6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3081693,
+          53.6158613
+        ]
+      },
+      "properties": {
+        "original_address": "Himmelpforten",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "lPF1N"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9877898,
+          53.3840275
+        ]
+      },
+      "properties": {
+        "original_address": "Hittfeld",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "K6qbu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.595098,
+          52.7658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hodenhagen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "l1d0j"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.196933,
+          52.200098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hoheneggelsen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "bj26W"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.8698,
+          53.284537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Holm-Seppensen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "H0QKt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6532713,
+          52.2719206
+        ]
+      },
+      "properties": {
+        "original_address": "Holtensen / Linderte",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "uHySU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.59869,
+          53.069754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hoykenkamp",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "jsron"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.266525,
+          52.991076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Huntlosen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "naS2U"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.451821,
+          53.171164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Ihrhove",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "J8Plk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0837218,
+          52.3912319
+        ]
+      },
+      "properties": {
+        "original_address": "Immensen-Arpke",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Sq8VI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.803318,
+          52.485809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Isernhagen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "3Xjv4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.100255,
+          51.685993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Katlenburg",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "4EIaE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.475266,
+          53.305852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Kirchhammelwarden",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "rVgGS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.119511,
+          52.3079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Kirchhorsten",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "yoRA7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9377619,
+          53.366812
+        ]
+      },
+      "properties": {
+        "original_address": "Klecken",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "6aBZm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.475952,
+          53.444308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Kleinensiel",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "7HId6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.690212,
+          52.677944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Knesebeck",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "VY4b7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.342855,
+          51.930215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Langelsheim",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "op5XP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3163422,
+          52.8636698
+        ]
+      },
+      "properties": {
+        "original_address": "Lathen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "6SxDr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3927624,
+          51.6584816
+        ]
+      },
+      "properties": {
+        "original_address": "Lauenförde-Beverungen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "vnKyL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1099414,
+          52.5093677
+        ]
+      },
+      "properties": {
+        "original_address": "Leese-Stolzenau",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "0Azhq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.427999,
+          52.456467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Leiferde (b Gifhorn)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "nsdrA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3210198,
+          52.1971351
+        ]
+      },
+      "properties": {
+        "original_address": "Lengede-Broistedt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "RN1rz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.305822,
+          52.39781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Leschede",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "ESaGD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2884643,
+          52.3542551
+        ]
+      },
+      "properties": {
+        "original_address": "Lindhorst (Schaumb-Lippe)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "egO0l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.689126,
+          52.610867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lindwedel",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "y0NAo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.325848,
+          52.601273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Linsburg",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "2tpjN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2292774,
+          52.665427
+        ]
+      },
+      "properties": {
+        "original_address": "Lohne (Oldb)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "OjR1P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6479179,
+          53.4698653
+        ]
+      },
+      "properties": {
+        "original_address": "Loxstedt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "NCpYl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.7852,
+          53.342864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lübberstedt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "dMAx1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7436445,
+          53.436365
+        ]
+      },
+      "properties": {
+        "original_address": "Lunestedt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "CmzEs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.53712,
+          52.119419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Marienau (Coppenbrügge)",
+        "color": "6",
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "wert": "6"
+      },
+      "id": "XQM61"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.274837,
+          53.519391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Marienhafe",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "yMeZc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.322342,
+          52.44911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Meinersen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "B3mWC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.188704,
+          51.849088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Münchehof (Harz)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "nuwcd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.096264,
+          52.993089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Munster (Örtze)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "qSwfk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.910886,
+          52.210289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Natrup-Hagen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "20kNS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4418682,
+          53.3067155
+        ]
+      },
+      "properties": {
+        "original_address": "Neermoor",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "aueSj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7916569,
+          53.4682413
+        ]
+      },
+      "properties": {
+        "original_address": "Neu Wulmstorf",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "b2GOZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6346672,
+          53.4816573
+        ]
+      },
+      "properties": {
+        "original_address": "Neukloster (Kr Stade)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "nykuQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.48711,
+          53.483756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Nordenham",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "NDD1o"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6115402,
+          53.7856914
+        ]
+      },
+      "properties": {
+        "original_address": "Nordholz",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "UPD9E"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.178849,
+          53.151636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Oldenburg-Wechloy",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Eltua"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8956836,
+          53.8073939
+        ]
+      },
+      "properties": {
+        "original_address": "Otterndorf",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "FWFcA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.017192,
+          52.487562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Otze",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "eTkb3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.453993,
+          52.467045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Poggenhagen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "x8WnP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.948008,
+          52.674301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Quakenbrück",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "640ZU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2844007,
+          53.311536
+        ]
+      },
+      "properties": {
+        "original_address": "Radbruch",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "zHqqD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.81732,
+          52.28882
+        ]
+      },
+      "properties": {
+        "original_address": "Rethen (Leine)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "0qNZB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.078226,
+          52.198872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Rinteln",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "XE9uS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7521428,
+          53.1886097
+        ]
+      },
+      "properties": {
+        "original_address": "Ritterhude",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "rTDzu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.009519,
+          53.082424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Sagehorn",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "VuNi3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.37221,
+          52.05001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Salzgitter Bad",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "M0rfZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4418025,
+          52.1500664
+        ]
+      },
+      "properties": {
+        "original_address": "Salzgitter-Immendorf",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Mxpkn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3328858,
+          52.1512851
+        ]
+      },
+      "properties": {
+        "original_address": "Salzgitter-Lebenstedt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "A8igD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4934625,
+          52.1802449
+        ]
+      },
+      "properties": {
+        "original_address": "Salzgitter-Thiede",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "2pz1C"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.685835,
+          52.267213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schandelah",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "8il8X"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.578563,
+          53.084952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schierbrok",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "RT9DY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5501144,
+          52.0221816
+        ]
+      },
+      "properties": {
+        "original_address": "Schladen (Harz)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "bphdy"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.890713,
+          52.868202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schnega",
+        "color": "6",
+        "_umap_options": {
+          "iconClass": "Ball"
+        },
+        "wert": "6"
+      },
+      "id": "er5e0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.798689,
+          53.11134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schneverdingen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "ivuaF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.77158,
+          52.14068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schöppenstedt",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "datsX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.62059,
+          51.879777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Stadtoldendorf",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "vP35Z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.563553,
+          51.3774614
+        ]
+      },
+      "properties": {
+        "original_address": "Staufenberg-Speele",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "UwlW3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.432549,
+          52.90507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Suderburg",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "rzX8A"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.654751,
+          51.654136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Uslar",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "1cYqE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.28043,
+          52.729276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Vechta",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "sEP5y"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.565659,
+          52.979864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Visselhövede",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "NtAsi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.169349,
+          52.33513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Vöhrum",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "oTbLn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.6073,
+          52.607948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wahrenholz",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "QiF76"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.608802,
+          51.584831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Walkenried",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "uYz3f"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.601364,
+          52.865295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Walsrode",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "Gw5SB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6235226,
+          52.2691364
+        ]
+      },
+      "properties": {
+        "original_address": "Weddel (Braunschw)",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "imAls"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.65588,
+          52.892489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wieren",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "f8Ned"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4364342,
+          52.897103
+        ]
+      },
+      "properties": {
+        "original_address": "Wildeshausen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "XyD6P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.06667,
+          53.7167
+        ]
+      },
+      "properties": {
+        "original_address": "Wingst",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "LeRu2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.43555,
+          52.323622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Winninghausen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "nQAIr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.828429,
+          53.186031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wintermoor",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "TNbg1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.204083,
+          52.258492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wissingen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "AnwOo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.723858,
+          52.727456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wittingen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "qA5zr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.532241,
+          52.159296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wolfenbüttel",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "y97bC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.278676,
+          52.200783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Woltwiesche",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "pnMjI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5089272,
+          53.6493944
+        ]
+      },
+      "properties": {
+        "original_address": "Wremen",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "IpYlp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1747364,
+          51.6594539
+        ]
+      },
+      "properties": {
+        "original_address": "Wulften",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "RKyb5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3353061,
+          53.1191775
+        ]
+      },
+      "properties": {
+        "original_address": "Wüsting",
+        "color": "6",
+        "wert": "6"
+      },
+      "id": "c3HyN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.904518,
+          52.376241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Ahlten (Han)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "9INsK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8607771,
+          52.369173
+        ]
+      },
+      "properties": {
+        "original_address": "Anderten-Misburg",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "NBHNO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7583903,
+          53.2195469
+        ]
+      },
+      "properties": {
+        "original_address": "Augustfehn",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "vDuuB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.158623,
+          52.309212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Bentheim",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "oxCWI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.574512,
+          53.077941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Bevensen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "P1EQa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.700413,
+          52.862809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Fallingbostel",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "ZqZUr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.46814,
+          52.177972
+        ]
+      },
+      "properties": {
+        "original_address": "Bad Münder (Deister)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "9HdhR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.378676,
+          52.343675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Nenndorf",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "sBDLi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.272761,
+          51.974015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Pyrmont",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "LJYT3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.003712,
+          53.182276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Zwischenahn",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "KiZt6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.081488,
+          53.007552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Baden (Kr Verden)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "4XnOX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.417397,
+          52.332468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bantorf",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "xLVan"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.510756,
+          52.707959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Barnstorf (Han)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "aMxqv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.467597,
+          52.304595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Barsinghausen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "T19OH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.72702,
+          52.58073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bennemühlen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "45xS3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.665351,
+          52.240467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bennigsen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "tvBnS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4904348,
+          53.1405534
+        ]
+      },
+      "properties": {
+        "original_address": "Bienenbüttel",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "lpW3H"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3135426,
+          52.3666812
+        ]
+      },
+      "properties": {
+        "original_address": "Bohmte",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "yywgp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.481274,
+          53.328464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Brake (Unterweser)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "933k1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.975388,
+          52.410848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bramsche",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "rjlKL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.698286,
+          53.86878
+        ]
+      },
+      "properties": {
+        "original_address": "Cuxhaven",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "6gHGT"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.181837,
+          52.41713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dollbergen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "A9wYw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.029659,
+          52.523898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Ehlershausen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "AfO0Z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.382668,
+          52.046051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Emmerthal",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "QfAoB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.668698,
+          52.340059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Empelde",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "4yEDv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.231949,
+          52.782831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Eystrup",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "Ajvwb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.718021,
+          52.423464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Fallersleben",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "DlsP2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.858706,
+          52.506831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Großburgwedel",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "5NeRQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1133457,
+          52.3529908
+        ]
+      },
+      "properties": {
+        "original_address": "Hämelerwald",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "zxDkq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6803384,
+          52.350793
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover-Bornum",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "c2yLQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7910051,
+          52.3736696
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover-Kleefeld",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "KcEdr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6765625,
+          52.3968666
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover-Leinhausen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "Wno43"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.76129,
+          51.392197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hedemünden",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "d5N04"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.453049,
+          51.820078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Holzminden",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "vWkJd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.577211,
+          53.508793
+        ]
+      },
+      "properties": {
+        "original_address": "Horneburg",
+        "color": "DarkBlue",
+        "wert": "5"
+      },
+      "id": "DgDVf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.184643,
+          53.344759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Jaderberg",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "lH6Jp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.73644,
+          52.479748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Langenhagen - Kaltenweide",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "yo0Dl"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.564457,
+          53.196985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lauenbrück",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "22tFS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.36096,
+          52.459252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lemförde",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "cozJi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.609303,
+          52.285226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lemmie",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "b2kiJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.639387,
+          52.394223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Letter",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "AQR1K"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0415839,
+          53.3953928
+        ]
+      },
+      "properties": {
+        "original_address": "Maschen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "TAPlu"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.024229,
+          53.4218063
+        ]
+      },
+      "properties": {
+        "original_address": "Meckelfeld",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "5ulzZ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.745216,
+          52.548905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Mellendorf",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "H6w0B"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.219219,
+          53.588074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Norden",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "HI0Ze"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7838751,
+          52.1604925
+        ]
+      },
+      "properties": {
+        "original_address": "Nordstemmen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "VBvC0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.932928,
+          51.628301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Nörten-Hardenberg",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "c6XCU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.477695,
+          51.905307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Oker",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "BuB7O"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.133759,
+          53.097119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Ottersberg (Han)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "vl4vj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.229988,
+          52.319393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Peine",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "4zsSW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.191853,
+          53.244674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Rastede",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "s9Kq9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4552785,
+          53.4010753
+        ]
+      },
+      "properties": {
+        "original_address": "Rodenkirchen (Oldb)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "mV9SB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.651918,
+          52.323588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Ronnenberg (Han)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "cfFZv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.314507,
+          52.0380738
+        ]
+      },
+      "properties": {
+        "original_address": "Salzgitter-Ringelheim",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "X9nh1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.031521,
+          53.49004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Sande",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "Szyhf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8534254,
+          52.2340379
+        ]
+      },
+      "properties": {
+        "original_address": "Sarstedt",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "1DycY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.496822,
+          53.165916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Scheeßel",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "IY5NS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.830704,
+          52.983997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Soltau (Han)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "XqlHn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.249802,
+          53.101346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Sottrum",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "6ozbQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.811649,
+          53.309134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Sprötze",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "WPqF6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1056569,
+          53.3729589
+        ]
+      },
+      "properties": {
+        "original_address": "Stelle",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "9PvtG"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.300455,
+          52.834948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Unterlüß",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "r3vqo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1502302,
+          53.3990747
+        ]
+      },
+      "properties": {
+        "original_address": "Varel (Oldb)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "wVQ1l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.360451,
+          52.257232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Vechelde",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "OtFVn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.562582,
+          51.955321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Vienenburg",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "lliLC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6255232,
+          52.2118533
+        ]
+      },
+      "properties": {
+        "original_address": "Völksen-Eldagsen",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "bN8sK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.572268,
+          52.279553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wennigsen (Deister)",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "vrL7I"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8867806,
+          53.2021623
+        ]
+      },
+      "properties": {
+        "original_address": "Westerstede-Ocholt",
+        "color": "5",
+        "wert": "5"
+      },
+      "id": "KZbSh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.031534,
+          53.015505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Achim",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "GVAXk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8253376,
+          51.9869477
+        ]
+      },
+      "properties": {
+        "original_address": "Alfeld (Leine)",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "U7LTa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.739839,
+          52.847519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bassum",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "MuUFF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.047413,
+          52.267526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bückeburg",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "Vxd2n"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0027367,
+          52.4485538
+        ]
+      },
+      "properties": {
+        "original_address": "Burgdorf (Han)",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "l0FhC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.521327,
+          52.406844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Dedensen / Gümmer",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "UExpn"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.380337,
+          52.604872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Diepholz",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "4SyWF"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9227761,
+          51.7982038
+        ]
+      },
+      "properties": {
+        "original_address": "Einbeck-Salzderhelden",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "8Hsdg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7476526,
+          52.1210549
+        ]
+      },
+      "properties": {
+        "original_address": "Elze (Han)",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "8mO31"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.123888,
+          52.999031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Etelsen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "W7xJB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.546188,
+          52.455703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Gifhorn",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "W3Flb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.690714,
+          52.408363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hannover - Ledeburg",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "eGtNp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.707408,
+          52.423622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hannover - Vinnhorst",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "BzEed"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7416533,
+          52.3769504
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover Bismarckstraße",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "Rb2VR"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6987988,
+          52.4585601
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover-Flughafen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "Y8hXP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7236409,
+          52.3526245
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover-Linden/Fischerhof",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "kYnDj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7924818,
+          52.3173696
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover-Messe / Laatzen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "79Wqa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7176969,
+          52.3938438
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover-Nordstadt",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "CxWIj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.389105,
+          52.379661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Haste (Han)",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "5P3OL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          11.010017,
+          52.222228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Helmstedt",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "t3Pz7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.847857,
+          52.9841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Kirchweyhe",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "VPYlW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.813122,
+          52.256914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Königslutter",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "qhjJf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9632817,
+          51.856206
+        ]
+      },
+      "properties": {
+        "original_address": "Kreiensen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "9NLml"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7357175,
+          52.4508691
+        ]
+      },
+      "properties": {
+        "original_address": "Langenhagen Pferdemarkt",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "QUB5N"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.321701,
+          52.51993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lingen (Ems)",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "5h8At"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.339996,
+          52.209553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Melle",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "cvGR2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2909824,
+          52.6947452
+        ]
+      },
+      "properties": {
+        "original_address": "Meppen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "JyNhW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1585724,
+          53.6242722
+        ]
+      },
+      "properties": {
+        "original_address": "Norddeich Mole",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "4gOfa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0460243,
+          52.2808016
+        ]
+      },
+      "properties": {
+        "original_address": "Osnabrück Altstadt",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "31pgt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.797002,
+          53.222866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Osterholz-Scharmbeck",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "A869k"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4049292,
+          53.1108906
+        ]
+      },
+      "properties": {
+        "original_address": "Rotenburg (Wümme)",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "ywsx5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.350883,
+          52.322698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Salzbergen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "vodj4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.557204,
+          52.215126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Springe",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "fRaqg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.475438,
+          53.599794
+        ]
+      },
+      "properties": {
+        "original_address": "Stade",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "qxxba"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.594455,
+          52.391682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Stadthagen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "HzjKc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.809834,
+          52.915786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Syke",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "OveI5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.73114,
+          53.271991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Tostedt",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "ieFz8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.64388,
+          52.791474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Twistringen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "EJXen"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.635181,
+          52.297719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Weetzen",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "ZfhMm"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.11512,
+          53.51878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wilhelmshaven",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "sWckS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2059206,
+          53.3636474
+        ]
+      },
+      "properties": {
+        "original_address": "Winsen (Luhe)",
+        "color": "4",
+        "wert": "4"
+      },
+      "id": "kWH9S"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.554042,
+          51.888465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bad Harzburg",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "J6ulW"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.875121,
+          53.324183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Buchholz (Nordheide)",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "wyeIt"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7003941,
+          53.4767351
+        ]
+      },
+      "properties": {
+        "original_address": "Buxtehude",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "XOcWc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067616,
+          52.616251
+        ]
+      },
+      "properties": {
+        "original_address": "Celle Pbf",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "sMMei"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.629503,
+          53.052926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Delmenhorst",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "8Rv93"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1951814,
+          53.3690779
+        ]
+      },
+      "properties": {
+        "original_address": "Emden Hbf",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "8M1KD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.42064,
+          51.911781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Goslar",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "r5oCi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.375801,
+          52.101497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hameln",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "0FlFr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7252642,
+          52.4400847
+        ]
+      },
+      "properties": {
+        "original_address": "Langenhagen-Mitte",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "GQqIa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.46491,
+          53.23142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Leer (Ostfriesl)",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "Xo9Kk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.974256,
+          52.376542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lehrte",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "kcAdP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.679728,
+          51.588697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Northeim (Han)",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "zqYra"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.237957,
+          52.920703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Verden (Aller)",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "0tp7O"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.451504,
+          52.422262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Wunstorf",
+        "color": "3",
+        "wert": "3"
+      },
+      "id": "6d693"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5398097,
+          52.2527621
+        ]
+      },
+      "properties": {
+        "original_address": "Braunschweig Hbf",
+        "color": "2",
+        "wert": "2"
+      },
+      "id": "8tUjf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.925804,
+          51.536725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Göttingen",
+        "color": "2",
+        "wert": "2"
+      },
+      "id": "uABEv"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9542033,
+          52.1607208
+        ]
+      },
+      "properties": {
+        "original_address": "Hildesheim Hbf",
+        "color": "2",
+        "wert": "2"
+      },
+      "id": "wSfSb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.419331,
+          53.249398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Lüneburg",
+        "color": "2",
+        "wert": "2"
+      },
+      "id": "mTmrz"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2231132,
+          53.144191
+        ]
+      },
+      "properties": {
+        "original_address": "Oldenburg (Oldb) Hbf",
+        "color": "2",
+        "wert": "2"
+      },
+      "id": "Fj1XM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0615665,
+          52.2729063
+        ]
+      },
+      "properties": {
+        "original_address": "Osnabrück Hbf",
+        "color": "2",
+        "wert": "2"
+      },
+      "id": "H4WUK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.553656,
+          52.969215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Uelzen",
+        "color": "2",
+        "wert": "2"
+      },
+      "id": "s2xwV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7871395,
+          52.4294853
+        ]
+      },
+      "properties": {
+        "original_address": "Wolfsburg Hbf",
+        "color": "2",
+        "wert": "2"
+      },
+      "id": "BYgsA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7416533,
+          52.3769504
+        ]
+      },
+      "properties": {
+        "original_address": "Hannover Hbf",
+        "color": "1",
+        "wert": "1"
+      },
+      "id": "Wqga6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.059545,
+          52.508361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Neuenkirchen (Oldb)",
+        "wert": 6
+      },
+      "id": "sd1MC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.329895,
+          51.643723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Herzberg (Harz)",
+        "wert": 5
+      },
+      "id": "6jTn1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.254917,
+          53.055081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Sandkrug",
+        "wert": 6
+      },
+      "id": "B2rjh"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.279142,
+          52.236132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Westerhausen",
+        "wert": 6
+      },
+      "id": "pMhtI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.945561,
+          52.723586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Essen (Oldb)",
+        "wert": 6
+      },
+      "id": "uFXKI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.809074,
+          52.37444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hannover Karl-Wiechert-Allee",
+        "wert": 4
+      },
+      "id": "gDTku"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.197888,
+          52.592517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Steinfeld (Oldb)",
+        "wert": 6
+      },
+      "id": "cpNX1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.161155,
+          53.621329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Norddeich Mole",
+        "wert": 4,
+        "undefined": "4"
+      },
+      "id": "fsKym"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.780673,
+          53.405952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Stubben",
+        "wert": 6
+      },
+      "id": "w3Y5z"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.19487,
+          52.977824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Langwedel",
+        "wert": 4
+      },
+      "id": "RbwnK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.492048,
+          52.289741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Kirchdorf (Deister)",
+        "wert": 6
+      },
+      "id": "4y8v9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.461361,
+          53.10931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Hude",
+        "wert": 4
+      },
+      "id": "A49R7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.810692,
+          53.284308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Oldenbüttel",
+        "wert": 6
+      },
+      "id": "hTyGe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.63604,
+          52.097392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Osterwald",
+        "wert": 7
+      },
+      "id": "DWlKP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.969967,
+          52.501829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Neuenhaus",
+        "wert": 7
+      },
+      "id": "qYV18"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.983957,
+          52.487015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Neuenhausen Süd",
+        "wert": 7
+      },
+      "id": "DnlGe"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.063973,
+          52.430337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Nordhorn",
+        "wert": 7
+      },
+      "id": "s1QD3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.074852,
+          52.417162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Nordhorn-Blanke",
+        "wert": 7
+      },
+      "id": "jABnH"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.611835,
+          53.441297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Apensen",
+        "wert": 7
+      },
+      "id": "tfFJJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.446139,
+          53.457498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Bargstedt",
+        "wert": 7
+      },
+      "id": "CohAa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.595171,
+          53.18521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Klinikum Bremen-Nord",
+        "wert": 7
+      },
+      "id": "cRkC4"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.14011,
+          53.483119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Bremervörde",
+        "wert": 7
+      },
+      "id": "QMpxr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.382367,
+          53.460576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Brest-Aspe"
+      },
+      "id": "MUcjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.875046,
+          51.818598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Einbeck Mitte",
+        "wert": 7
+      },
+      "id": "gOwHJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.892459,
+          51.814455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Einbeck Otto-Hahn-Straße",
+        "wert": 7
+      },
+      "id": "7dtyI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.18596,
+          53.344124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Emden Außenhafen",
+        "wert": 7
+      },
+      "id": "kj4MN"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.901608,
+          53.501259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Freisdorf",
+        "wert": 7
+      },
+      "id": "aHepO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.859143,
+          53.506557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Geestenseth",
+        "wert": 7
+      },
+      "id": "ZNlGb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.499226,
+          53.449885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Harsefeld",
+        "wert": 7
+      },
+      "id": "SskGc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.972912,
+          53.498655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Heinschenwalde",
+        "wert": 7
+      },
+      "id": "4tihd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.195406,
+          53.472749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Hesedorf",
+        "wert": 7
+      },
+      "id": "gCMKP"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.152156,
+          52.135175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Hilter a.T.W.",
+        "wert": 7
+      },
+      "id": "3mYp8"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.109777,
+          52.201242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Kloster Oesede",
+        "wert": 7
+      },
+      "id": "aNi4T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.308842,
+          53.47052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Kutenholz",
+        "wert": 7
+      },
+      "id": "vl0sa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.032993,
+          53.494383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Oerel",
+        "wert": 7
+      },
+      "id": "JS4cV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.221966,
+          52.317043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schüttorf",
+        "wert": 6
+      },
+      "id": "Gn6W6"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.06448,
+          52.208607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Oesede",
+        "wert": 7
+      },
+      "id": "QzXnd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.021393,
+          52.231743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Osnabrück-Sutthausen",
+        "wert": 7
+      },
+      "id": "09VIO"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.172184,
+          52.33844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Quendorf",
+        "wert": 7
+      },
+      "id": "5nz2T"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.560241,
+          53.446245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Ruschwedel",
+        "wert": 7
+      },
+      "id": "YfEeV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.722501,
+          53.51545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Sellstedt",
+        "wert": 7
+      },
+      "id": "PXMFf"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.806636,
+          53.512246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Wehdel",
+        "wert": 7
+      },
+      "id": "kcpPL"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.14014,
+          52.181117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Maroon"
+        },
+        "original_address": "Wellendorf",
+        "wert": 7
+      },
+      "id": "FMxPq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.748392,
+          52.522441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Bissendorf",
+        "wert": 5
+      },
+      "id": "iJD4G"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.218388,
+          52.645554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Nienburg (Weser) ",
+        "wert": 3
+      },
+      "id": "JfdJi"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.623938,
+          52.678388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schwarmstedt",
+        "wert": 6
+      },
+      "id": "eB1Sj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.173726,
+          51.887222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Seesen",
+        "wert": 5
+      },
+      "id": "X4mL7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.962625,
+          52.318107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Sehnde",
+        "wert": 5,
+        "undefined": "5"
+      },
+      "id": "Yhk8k"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.946677,
+          53.542093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Schortens-Heidmühle (Oldb)",
+        "wert": 6,
+        "undefined": "6"
+      },
+      "id": "CZYDS"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.45528,
+          52.503425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Neustadt a Rübenberge",
+        "wert": 4,
+        "undefined": "4"
+      },
+      "id": "LNiJa"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          9.513602,
+          52.278819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "original_address": "Egestorf (Deister)",
+        "wert": "5",
+        "undefined": "5"
+      },
+      "id": "TKO5C"
+    }
+  ]
+}
